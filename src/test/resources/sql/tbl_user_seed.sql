@@ -1,0 +1,1 @@
+insert into tbl_user(id, name, age) values (2, 'seed', 7);
