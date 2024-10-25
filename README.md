@@ -10,6 +10,12 @@ Micronaut(まいくろのーと)でサーバーサイドKotlinに入門するサ
 
 サークル「aozora Project」にて頒布します。
 
+技術書典での頒布ページは[こちら](https://techbookfest.org/product/tWnq3dgYJhucbCK3p1iYz)
+
+BOOTHは[こちら](https://fortegp05.booth.pm/items/6218688)
+
+※頒布開始は技術書典17の開幕してからになります
+
 サークルページは[こちら](https://techbookfest.org/organization/30860006)
 
 技術書典 17のサイトは[こちら](https://techbookfest.org/event/tbf17/market)
